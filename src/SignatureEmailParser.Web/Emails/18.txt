@@ -1,0 +1,554 @@
+Try it nowAsk again laterDon't show again
+RE: R&D Claim - Please can you complete for me
+Emily Gardner
+Hi George,
+
+ 
+
+Great thanks for this
+
+ 
+
+Kind Regards
+
+Emily
+
+ 
+
+Emily Gardner FMAAT
+
+Business Owner & Accountant
+
+ 
+
+Tel: 01452 546682
+
+Mobile: 07930179112 A picture containing drawing
+
+Description automatically generated
+
+
+
+    
+
+Easy Solutions Group Ltd
+
+Registered Offices: Daniels Brook House | 123 Thoresby Avenue | Gloucester | Gloucestershire | GL4 0TF.
+
+This message is private and confidential. If you have received this message in error, please notify the sender and remove it, and any attachments, from your system immediately. You must not copy, distribute, disclose or use any of the information in it or any attachments. Please consider the environment before printing this email.
+
+ 
+
+From: George Robinson <george@socialhootz.com>
+Sent: 31 May 2022 10:48
+To: Emily Gardner <emily@easysolutionsgroup.co.uk>
+Cc: Liz Robinson <liz@socialhootz.com>
+Subject: Fw: R&D Claim - Please can you complete for me
+
+ 
+
+Hi Emily,
+
+ 
+
+Please see below for updated R&D copy.
+
+ 
+
+ 
+
+What scientific or technical knowledge existed at the start of your project that you planned to improve?
+
+ 
+
+Pattern matching on difficult content to parse, in this case the signatures within an email.
+
+ 
+
+What advance in that knowledge did you aim to achieve?
+
+ 
+
+The ability to use machine learning and AI to intelligently extract key information from email signatures and then compare that data against existing data for verification.
+
+ 
+
+ 
+
+List the goals of your R&D project, and explain the improvements you planned to make.
+
+ 
+
+To be able to:
+
+ 
+
+Create machine learning based algorithms that can develop best practices for extracting key data from content sources that may or not contain conventional human patterns.  For e.g.
+The many ways in which humans create an email signature
+How to parse a signature with missing information
+When the email/phone/mobile is not in the position expected
+When phone/mobile prefixes are different across different countries
+The risks of mistaken identified data being apportioned incorrectly to existing data
+Database optimisation strategies for handling disparate data
+Using non-conventional strategies for analysing and optimising storage, retrieval and updation
+Formatting data across different sources into a single universal storage format
+ 
+What is an advance in knowledge or capability?
+
+ 
+
+The ability to crunch data from many types of an email signature and provide a common api for future application.  
+
+ 
+
+What scientific or technological uncertainties did you face?
+
+ 
+
+Describe the obstacles that you found and tried to overcome to achieve the improvements.
+
+ 
+
+Email signatures don't conform to any agreed upon convention.  No one email provider or institution mandates the structure of any agreed upon standards.  Some emails use HTML and some use plain text and the sequence or ordering of the key data applies no standard approach that can be anticipated.
+
+ 
+
+What types of uncertainties should I outline?
+
+ 
+
+The possibility that some data cannot be parsed and that it might be more realistic to determine a percentage of accuracy rather than 100% data retrieval accuracy in each instance.
+
+ 
+
+How did your project overcome these uncertainties?
+
+ 
+
+Having existing data means that in some cases we can query our database for clues that might indicate we have a portion of the data which then allows us to use a process of elimination.  For e.g. if we have a signature that contains a phone, mobile, email, linkedin identifier and name and our database can confirm two out of those 5, then we only have 3 options for the remainder.
+
+ 
+
+Outline the R&D activities you did to try to resolve the uncertainties.
+
+ 
+
+We are using the latest Microsoft Azure services, load balancers and fault tolerant functions.
+
+We invested in learning new programming constructs, such as functions.  These provide a PAAS approach that will be necessary for the success of this project.
+
+We’ve done considerable research and testing against 100’s of varied content providers (websites) to ensure that our tests accommodate all possible permutations (we know of).
+
+Units tests and automated UI tests have allowed us to speed things up.
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+
+George Robinson / Technology Development Manager
+
+Mob: 07590 677343/ george
+
+Office: 01452 723733
+The Plantation, Hardwicke, Gloucester, GL2 4SP
+http://www.socialhootz.com
+
+  
+
+This e-mail message may contain confidential or legally privileged information and is intended only for the use of the intended recipient(s). Any unauthorized disclosure, dissemination, distribution, copying or the taking of any action in reliance on the information herein is prohibited. E-mails are not secure and cannot be guaranteed to be error free as they can be intercepted, amended, or contain viruses. Anyone who communicates with us by e-mail is deemed to have accepted these risks. Company Name is not responsible for errors or omissions in this message and denies any responsibility for any damage arising from the use of e-mail. Any opinion and other statement contained in this message and any attachment are solely those of the author and do not necessarily represent those of the company.
+
+From: George Robinson <george@socialhootz.com>
+Sent: 16 December 2021 17:32
+To: Emily Gardner <emily@easysolutionsgroup.co.uk>
+Cc: Liz Robinson <liz@socialhootz.com>
+Subject: Re: R&D Claim - Please can you complete for me
+
+ 
+
+Thanks Emily, sorry for the delay, email got pushed down out of sight quite quickly.
+
+ 
+
+
+
+
+George Robinson / Technology Development Manager
+Mob: 07590 677343/ george
+Office: 01452 723733
+The Plantation, Hardwicke, Gloucester, GL2 4SP
+http://www.socialhootz.com
+
+  
+
+This e-mail message may contain confidential or legally privileged information and is intended only for the use of the intended recipient(s). Any unauthorized disclosure, dissemination, distribution, copying or the taking of any action in reliance on the information herein is prohibited. E-mails are not secure and cannot be guaranteed to be error free as they can be intercepted, amended, or contain viruses. Anyone who communicates with us by e-mail is deemed to have accepted these risks. Company Name is not responsible for errors or omissions in this message and denies any responsibility for any damage arising from the use of e-mail. Any opinion and other statement contained in this message and any attachment are solely those of the author and do not necessarily represent those of the company.
+
+From: Emily Gardner <emily@easysolutionsgroup.co.uk>
+Sent: 13 December 2021 21:31
+To: George Robinson <george@socialhootz.com>
+Subject: RE: R&D Claim - Please can you complete for me
+
+ 
+
+Hi George,
+
+ 
+
+That’s really great thank you, I shall submit this too when all happy with the Accounts and R&D Tax Credit. Speak tomorrow
+
+ 
+
+Kind Regards
+
+Emily
+
+ 
+
+Emily Gardner FMAAT
+
+Business Owner & Accountant
+
+ 
+
+Tel: 01452 546682
+
+Mobile: 07930179112 A picture containing drawing
+
+Description automatically generated
+
+
+
+    
+
+Easy Solutions Group
+
+Registered Offices: Daniels Brook House | 123 Thoresby Avenue | Gloucester | Gloucestershire | GL4 0TF.
+
+This message is private and confidential. If you have received this message in error, please notify the sender and remove it, and any attachments, from your system immediately. You must not copy, distribute, disclose or use any of the information in it or any attachments. Please consider the environment before printing this email.
+
+ 
+
+From: George Robinson <george@socialhootz.com>
+Sent: 13 December 2021 19:41
+To: Emily Gardner <emily@easysolutionsgroup.co.uk>
+Subject: Fw: R&D Claim - Please can you complete for me
+
+ 
+
+Hi Emily,
+
+ 
+
+How about this.  A complete rewrite.
+
+ 
+
+What scientific or technical knowledge existed at the start of your project that you planned to improve?
+
+ 
+
+What advance in that knowledge did you aim to achieve?
+
+ 
+
+To be able parse data from lots of different social media platforms into a single database and be able to perform advanced searching that would be able to infer intent for possible prospect matching against a users profile across all platforms.  
+
+ 
+
+ 
+
+List the goals of your R&D project, and explain the improvements you planned to make.
+
+ 
+
+ 
+
+To be able to:
+
+ 
+
+Use dynamic queries that can run searches against a combination of
+
+- Free text searches
+
+- Pattern matching
+
+- Fixed or constant keywords
+
+- Dates
+
+- Between criteria
+
+ 
+
+ 
+
+What is an advance in knowledge or capability?
+
+ 
+
+The ability to crunch data from many disparate sources and platforms while still using a common interface.  The secondary ability to parse the data from the native inteface of LinkedIn, Facebook or Twitter and convert the criteria into a custom / generic search criteria that can be understood by our own commmon interface.
+
+ 
+
+What scientific or technological uncertainties did you face?
+
+ 
+
+Describe the obstacles that you found and tried to overcome to achieve the improvements.
+
+ 
+
+Not all social media platforms provide the same search criteria, neither do they use the same data, search or phrases across the board.  To be able to extract all disparate searches and create a common construct across them all requires advance pattern matching techniques that we consider proprietary.
+
+ 
+
+ 
+
+It will take considerably more testing to confirm that this approach will be viable for a production ready sample.
+
+ 
+
+What types of uncertainties should I outline?
+
+ 
+
+All platforms can change at any time.  This requires a robust mechanism for catching changes and informing the admin team so that remedial updates can be made without downgrading the process.
+
+ 
+
+How did your project overcome these uncertainties?
+
+ 
+
+Outline the R&D activities you did to try to resolve the uncertainties.
+
+ 
+
+ 
+
+We are using the latest Microsoft Azure services, load balancers and fault tolerant functions.
+
+We invested in learning new programming constructs, such as functions.  These provide a PAAS approach that will be necessary for the success of this project.
+
+We’ve done considerable research and testing against 100’s of varied content providers (websites) to ensure that our tests accommodate all possible permutations (we know of).
+
+Units tests and automated UI tests have allowed us to speed things up.
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+George Robinson / Technology Development Manager
+Mob: 07590 677343/ george
+Office: 01452 723733
+The Plantation, Hardwicke, Gloucester, GL2 4SP
+http://www.socialhootz.com
+
+  
+
+This e-mail message may contain confidential or legally privileged information and is intended only for the use of the intended recipient(s). Any unauthorized disclosure, dissemination, distribution, copying or the taking of any action in reliance on the information herein is prohibited. E-mails are not secure and cannot be guaranteed to be error free as they can be intercepted, amended, or contain viruses. Anyone who communicates with us by e-mail is deemed to have accepted these risks. Company Name is not responsible for errors or omissions in this message and denies any responsibility for any damage arising from the use of e-mail. Any opinion and other statement contained in this message and any attachment are solely those of the author and do not necessarily represent those of the company.
+
+From: George Robinson <george@socialhootz.com>
+Sent: 13 December 2021 17:29
+To: Emily Gardner <emily@easysolutionsgroup.co.uk>
+Subject: Fw: R&D Claim - Please can you complete for me
+
+ 
+
+Can use same working as before.
+
+ 
+
+
+
+George Robinson / Technology Development Manager
+Mob: 07590 677343/ george
+Office: 01452 723733
+The Plantation, Hardwicke, Gloucester, GL2 4SP
+http://www.socialhootz.com
+
+  
+
+This e-mail message may contain confidential or legally privileged information and is intended only for the use of the intended recipient(s). Any unauthorized disclosure, dissemination, distribution, copying or the taking of any action in reliance on the information herein is prohibited. E-mails are not secure and cannot be guaranteed to be error free as they can be intercepted, amended, or contain viruses. Anyone who communicates with us by e-mail is deemed to have accepted these risks. Company Name is not responsible for errors or omissions in this message and denies any responsibility for any damage arising from the use of e-mail. Any opinion and other statement contained in this message and any attachment are solely those of the author and do not necessarily represent those of the company.
+
+From: George Robinson
+Sent: 27 April 2020 13:15
+To: Emily Gardner <emily@easysolutionsgroup.co.uk>
+Cc: 'liz@socialhootz.com' <liz@socialhootz.com>
+Subject: RE: R&D Claim - Please can you complete for me
+
+ 
+
+Much appreciated.
+
+ 
+
+3sparks llc
+
+George Robinson / Technology Development Manager
+Mob: 07590 677343/ george
+Office: 01452 723733
+The Plantation, Hardwicke, Gloucester, GL2 4SP
+http://www.socialhootz.com
+
+Facebook Twitter Linkedin
+
+This e-mail message may contain confidential or legally privileged information and is intended only for the use of the intended recipient(s). Any unauthorized disclosure, dissemination, distribution, copying or the taking of any action in reliance on the information herein is prohibited. E-mails are not secure and cannot be guaranteed to be error free as they can be intercepted, amended, or contain viruses. Anyone who communicates with us by e-mail is deemed to have accepted these risks. Company Name is not responsible for errors or omissions in this message and denies any responsibility for any damage arising from the use of e-mail. Any opinion and other statement contained in this message and any attachment are solely those of the author and do not necessarily represent those of the company.
+
+ 
+
+From: Emily Gardner <emily@easysolutionsgroup.co.uk>
+Sent: 27 April 2020 12:56
+To: George Robinson <george@socialhootz.com>
+Subject: RE: R&D Claim - Please can you complete for me
+
+ 
+
+Hi George,
+
+ 
+
+That’s great thank you, can get this filed along with the accounts, have had one problem solved I am checking the other now, but should be all ready later today for you to check through and sign off digitally for me, many thanks
+
+ 
+
+From: George Robinson <george@socialhootz.com>
+Sent: 27 April 2020 13:48
+To: Emily Gardner <emily@easysolutionsgroup.co.uk>
+Subject: RE: R&D Claim - Please can you complete for me
+
+ 
+
+Hi Emily,
+
+
+Is this ok? points in green so you can differentiate.
+
+
+Cheers
+
+George
+
+ 
+
+ 
+
+3sparks llc
+
+George Robinson / Technology Development Manager
+Mob: 07590 677343/ george
+Office: 01452 723733
+The Plantation, Hardwicke, Gloucester, GL2 4SP
+http://www.socialhootz.com
+
+Facebook Twitter Linkedin
+
+This e-mail message may contain confidential or legally privileged information and is intended only for the use of the intended recipient(s). Any unauthorized disclosure, dissemination, distribution, copying or the taking of any action in reliance on the information herein is prohibited. E-mails are not secure and cannot be guaranteed to be error free as they can be intercepted, amended, or contain viruses. Anyone who communicates with us by e-mail is deemed to have accepted these risks. Company Name is not responsible for errors or omissions in this message and denies any responsibility for any damage arising from the use of e-mail. Any opinion and other statement contained in this message and any attachment are solely those of the author and do not necessarily represent those of the company.
+
+ 
+
+From: Emily Gardner <emily@easysolutionsgroup.co.uk>
+Sent: 27 April 2020 11:47
+To: George Robinson <george@socialhootz.com>
+Subject: R&D Claim - Please can you complete for me
+
+ 
+
+Hi George,
+
+ 
+
+Please can you answer the below for this year ready for the claim please (can use the wording from before but can you split out to answer each section):
+
+ 
+
+What scientific or technical knowledge existed at the start of your project that you planned to improve?
+
+ 
+
+What advance in that knowledge did you aim to achieve?
+
+ 
+
+One of the major limitations of current data processing is the ability to effectively parse HTML into other useful transforms.  There currently does not exist any technology that allows specific patterns to be used to extract portions of HTML from one page into other useful formats for other services, these formats could include JSON or XML.  The ability to take HTML and allow software to pre-parse the information allows for several useful applications of the data.  This could include email, social media and other even keyword density analysis.  The SocialHootz platform depends on this technology so that it can provide end users with some of the applications described above.   Future implementations will include the ability to extract content and apply AI to provide potentially human interactions and engagement based on pre-configured criteria.  
+
+ 
+
+List the goals of your R&D project, and explain the improvements you planned to make.
+
+ 
+
+To be able to:
+
+ 
+
+Parse any URLs HTML based on set of metadata, html attributes and/or XPath code.
+To enable a crawler that can not only parse the HTML bases on the 1st point but to traverse the site and identifying relevant pages, or pages that contain the 1st point criteria.
+To be able to exclude redundant data
+To be able to identify different assets, such as images and links.
+ 
+
+ 
+
+What is an advance in knowledge or capability?
+
+ 
+
+All major systems use API’s (application programming interfaces) to exchange data. They don’t consider HTML pages a for API.  If the HTML can effectively traverse HTML/JSON using the above points.  It can potentially treat HTML and Website data as an API.  To do this, we would need to be able to apply a common standard across all data retrieved.
+
+ 
+
+What scientific or technological uncertainties did you face?
+
+Describe the obstacles that you found and tried to overcome to achieve the improvements.
+
+ 
+
+Not all HTML/JSON is correctly formatted in the first place.  The success of failure of this project at least expects that HTML/JSON is well formed.  In reality, lots of content providers don’t check that their mark-up is well formed.  As a result of this, we’ve had to come up with methods that could parse out badly formed HTML/JSON but still ensure that the content was syntactically it was still correct.
+
+ 
+
+It will take considerably more testing to confirm that this approach will be viable for a production ready sample.
+
+ 
+
+What types of uncertainties should I outline?
+
+ 
+
+The only way to verify the usefulness of the above has been to provide early alpha versions of the software with real users and provide a ticketing system to allow feedback to managed and monitored.   The exists several products to push messages out to consumers but none of these currently take advantage of existing content, neither do they provide a user-friendly way for user to create their own integrations.  Hootsuite for e.g. only allows content to be added manually with no consideration for automating the process using the algorithms and parsing capabilities mentioned above.
+
+ 
+
+I possible that new HTML/JSON standards could break the implementations as described above.  But this is an uncertainty that almost every API consumer has to deal with.
+
+ 
+
+How did your project overcome these uncertainties?
+
+Outline the R&D activities you did to try to resolve the uncertainties.
+
+ 
+
+We are using the latest Microsoft Azure services, load balancers and fault tolerant functions.
+We invested in learning new programming constructs, such as functions.  These provide a PAAS approach that will be necessary for the success of this project.
+We’ve done considerable research and testing against 100’s of varied content providers (websites) to ensure that our tests accommodate all possible permutations (we know of).
+Units tests and automated UI tests have allowed us to speed things up.
+ 
+
+ 
+
+ 

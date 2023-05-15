@@ -1,0 +1,86 @@
+Hi George,
+
+I recently had some roles come in which may be of interest to you - if they are, please reply to this email with a CV (it doesn't have to be bang up to date, whatever you have handy is fine) and if you might be a fit, I'll be in touch.
+
+Full details below:
+
+Titles: Lead Static Stress Engineer & 2x F&DT Engineer
+Rate: £40-50/hr
+Inside IR-35
+Location: Airbus, Filton, N. Bristol (on-site)
+7 Months
+
+
+Lead Static Stress Engineer
+
+The role is for a Lead Static Stress engineer to perform and / or sign-off the stress analysis for A350 Fixed Leading Edge certification, based at Airbus, Filton.
+Initially this will involve establishing the appropriate analysis basis for Fixed Leading Edge structures with stakeholder agreement.
+The role will involve familiarisation with baseline analysis and the updated requirements and complexities of the current certification task.
+
+
+Main Tasks and Activities:
+Analysis of Fixed Leading Edge structures using Airbus toolsets and processes.
+Development and implementation of supporting analysis techniques to manage the data volumes and complex analyses specific to the A350 Fixed Leading Edge; determined on a case-by-case basis.
+Compilation of static stress certification dossiers (composites and metallics).
+Approval of static stress certification dossiers (composites and metallics). 
+Close working with the A350 Fixed Leading Edge team.
+Progress reporting to the Delivery Team Leader for the A350 Fixed Leading Edge team.
+
+
+Job Requirements / Skills:
+Proven experience within an aerospace environment.
+Prior experience of working within Airbus.
+Proven 'hands on' experience of airframe certification analysis; knowledge of Wing structures preferred.
+Airbus delegated static stress signatory for composites and metallics.
+Strength in problem solving for analysis solutions.
+Strong working knowledge of Nastran, Hyperworks, Python scripting and ISAMI preferred.
+Ability to meet the agreed delivery plan and report progression of deliverables.
+
+
+A330 F&DT Engineer
+
+The role is for an F&DT engineer to perform the Fatigue and Damage Tolerance analysis for A330 Wing structures, based at Airbus, Filton.
+The task will include investigations into potential design improvements and their impact upon the structure supporting trade studies, it will also involve documentation of F&DT justifications of modifications.
+
+Main Tasks and Activities:
+Production and collation of data to enable trade studies and impact analysis to be performed, understand impact of modifications on inspection program.
+Analysis of fixed Wing structures using Airbus toolsets and processes.
+Compilation of F&DT certification dossiers.
+Pre-approval check / approval of dossiers if a delegated signatory.
+Close working with the A330 Wing teams.
+Progress reporting to Head of Engineering for A330.
+
+Job Requirements / Skills:
+Proven experience within an aerospace environment.
+Prior experience of working within Airbus.
+Delegated signatory preferred.
+Proven 'hands on' experience of airframe certification analysis; knowledge of Wing structures preferred.
+Strength in problem solving for analysis solutions.
+Knowledge of fatigue working method and Maintenence documentation is required.
+Strong working knowledge of ISAMI is preferred.
+Ability to meet the agreed delivery plan and report progression of deliverables.
+
+Education Requirements:
+Degree in Engineering or relevant discipline
+
+
+
+Best Regards,
+Simon Dunphy
+Huxley Engineering
+4th Floor, Redcliff Quay, Redcliff Street, Bristol, BS1 6HU, United Kingdom
+------------------------------------------------
+T: 01179 388088
+E: s.dunphy@progressivege.com
+------------------------------------------------
+www.huxleyengineering.com
+
+
+To manage the types of communication you receive from Huxley click here.
+Click here to unsubscribe
+
+
+
+
+ 
+

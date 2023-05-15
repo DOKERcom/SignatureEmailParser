@@ -1,0 +1,30 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <Platforms>AnyCPU;x64</Platforms>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Content Remove="JsonData\Cities.json" />
+    <Content Remove="JsonData\Countries.json" />
+    <Content Remove="JsonData\Positions.json" />
+    <Content Remove="JsonData\Regions.json" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <_ContentIncludedByDefault Remove="JsonData\LastNames.json" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\SignatureEmailParser\SignatureEmailParser.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="JsonData\Cities.json" />
+    <None Include="JsonData\Countries.json" />
+    <None Include="JsonData\Positions.json" />
+    <None Include="JsonData\Regions.json" />
+  </ItemGroup>
+
+</Project>

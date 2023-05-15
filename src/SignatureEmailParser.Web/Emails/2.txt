@@ -1,0 +1,53 @@
+Good afternoon!
+I am currently recruiting for the following .NET positions. If either of these positions are of interest, please reply now with an up-to-date CV for immediate consideration.
+Please find my adverts below.
+1 – Graduate Software Developer – Up to £30,000
+Avanti Recruitment are working with a leading company in the printing sector who are looking for a Graduate Software Developer to join their team.
+They have an unrivaled scalable IT Infrastructure and manufacturing plant with allows them to produce nearly 1 billion photos per year. Their clients include the biggest names in the UK market and they are expanding into Europe quickly.  They manage to do all of this with a small but highly skilled technical team (about 15 people) who prioritise high-quality code and continuous innovation.
+They are ideally looking for someone to attend their Devon based office 2/3 days a week. However, they can be more flexible and offer once or twice a month in the office or fully remote.
+As the Graduate Developer, you will be involved in maintaining and improving existing IT systems alongside new development on new product offerings. Your work will directly interact with machines on their production line so you will see the physical representation of your coding on a daily basis. The manufacturing line is world-class and the work will be interesting, provide a ton of variety and will suit someone with an inquisitive nature. You will be working alongside some talented senior developers and you benefit from some excellent training and progression.
+The company has an excellent reputation both in the industry and as an employer and they have a retention rate way in their development team way above the industry average. The Development manager puts this down to their commitment to avoiding 'crunch time' and how rewarding the work can be.
+For this role, you will have a 2:1 in Computer Science (or relevant degree) and ideally exposure to C#, .NET or SQL Server. These are not essential as you will be trained within the role.
+They offer up to £30k salary, 25 days holiday + BH, private Bupa healthcare, opportunities for extensive training, a profit-based bonus, flexible working hours and more.
+--------
+2 – Mid Level Software Developer – Up to £60,000
+Avanti Recruitment are currently working with the market-leading software company based in Hampshire who specialise in building software for the Retail, Hospitality & Leisure industry. They are looking for a C# Developer to join their existing team of developers.
+They are ideally looking for someone who is able to attend their Hampshire-based office twice a month.
+You will be working on a number of Greenfield projects for their high-profile clients such as the NHS, Costa Coffee, TGI Fridays and more. Some of the upcoming projects they are working on is a PWA for the NHS, A new POS project for Itsu and more.
+They are advocates for writing clean, scalable code following Agile methodologies.
+Within this role you will work with a number of technologies, these include:
+C#
+.NET
+Angular (or equivalent)
+SQL Server
+Mobile Apps (Xamarin)
+They offer up to £60k salary, a performance-based bonus scheme, 25 days holiday + BH, private medical healthcare and more. They also hold regular social events for their team and their development managers have been known to assist developers in projects for their high-level clients despite being hands-off, as they are a very collaborative team.
+--------
+If either of these roles are of interest, please reply now specifying which is of interest with an up-to-date CV for immediate consideration.
+Kind regards,
+
+Alanah Townley
+.NET Consultant
+Avanti Recruitment Ltd
+ 
+Direct:     0118 4024 664
+Office:     0118 4024 664
+LinkedIn: Avanti Recruitment Ltd
+Website: www.avantirec.com
+Company Registration Number: 06911565
+
+***************************************************************************************************************************
+Any opinions expressed in the email are those of the individual and not necessarily the company. This email and any files transmitted with it are
+confidential and solely for the use of the intended recipient. If you are not the intended recipient or the person responsible for delivering it to the
+intended recipient, be advised that you have received this email in error and that any dissemination, distribution, copying or use is strictly prohibited.
+
+The contents of an attachment to this e-mail may contain software viruses which could damage your own computer system. While the sender has
+taken every reasonable precaution to minimise this risk, we cannot accept liability for any damage which you sustain as a result of software viruses.
+You should carry out your own virus checks before opening any attachments to this e-mail.
+
+We are contacting you using data processed based on our legitimate business interests. 
+You can request to stop receiving this type of communication at any time by clicking here: Alanah.T@avantirec.com and typing STOP in the subject field.
+Our full privacy policy can be found here: http://www.avantirec.com/privacy-policy/
+****************************************************************************************************************************
+ 
+ 
