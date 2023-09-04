@@ -31,7 +31,7 @@ namespace SignatureEmailParser.HttpTriggerFunctions.License.Get
         public async Task<IActionResult> Run([HttpTrigger(AuthorizationLevel.Function, "get", Route = null)] HttpRequest req)
         {
             // we don't want requests coming from anything other than our api
-            //if (req.Host.HasValue ? req.Host.Value.Contains(CloudflareConstant.LEADHOOTZDOMAIN, StringComparison.OrdinalIgnoreCase) : false)
+            //if (req.Host.HasValue ? req.Host.Value.Contains(CloudflareConstant.YOURDOMAIN, StringComparison.OrdinalIgnoreCase) : false)
             //{
             //    var ip = req.HttpContext.GetRemoteIPAddress(true);
 

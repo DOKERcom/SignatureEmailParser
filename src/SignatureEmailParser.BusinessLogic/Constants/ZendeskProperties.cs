@@ -6,10 +6,10 @@ namespace SignatureEmailParser.BusinessLogic.Constants
 {
     public class ZendeskProperties
     {
-        public const string LOGIN = "george@socialhootz.com";
-        public const string PASSWORD = "qazokm@123";
+        public const string LOGIN = "stacy@yourdomain.com";
+        public const string PASSWORD = "yourpassword";
         public const string TOKEN = "";
-        public const string GROUPID = "360005752197";
-        public const string REQUESTERID = "379545598758";
+        public const string GROUPID = "675468736";
+        public const string REQUESTERID = "457455474574";
     }
 }

@@ -6,7 +6,7 @@ namespace SignatureEmailParser
 {
     public class Constants
     {
-        public const string AZURE_FUNCTION_DOMAIN = "https://api.leadhootz.com/api/";
+        public const string AZURE_FUNCTION_DOMAIN = "https://api.YOURDOMAIN.com/api/";
         public const string AZURE_GET_ALL_NEW_CITIES_BY_LATEST_ID_URL = "HttpTriggerGetAllNewCitiesByLatestId";
         public const string AZURE_GET_ALL_NEW_REGIONS_BY_LATEST_ID_URL = "HttpTriggerGetAllNewRegionsByLatestId";
 

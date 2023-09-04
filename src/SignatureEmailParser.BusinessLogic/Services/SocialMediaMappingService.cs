@@ -938,7 +938,7 @@ namespace SignatureEmailParser.BusinessLogic.Services
         /// https://www.sqlshack.com/hands-full-text-search-sql-server/
         /// 
         /// This queries yoru FT index
-        /// SELECT top 100 * FROM sys.dm_fts_index_keywords( DB_ID('LeadHootz.Function_2'), OBJECT_ID('SocialMediaMappings'))
+        /// SELECT top 100 * FROM sys.dm_fts_index_keywords( DB_ID('YOURDOMAIN.Function_2'), OBJECT_ID('SocialMediaMappings'))
         /// 
         /// This might be useful if you ever need to modify the FT column
         /// https://stackoverflow.com/questions/834841/how-do-i-disable-a-full-text-search-on-a-column-in-sql-server

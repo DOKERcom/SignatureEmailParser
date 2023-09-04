@@ -2,9 +2,9 @@
 {
     public class SettingConstant
     {
-        public const string ENVIRONMENT_KEY_POST_AUTORESPONSE_STATISTIC_API_URL = "LeadHootzPostAutoResponseStatisticApiUrl";
+        public const string ENVIRONMENT_KEY_POST_AUTORESPONSE_STATISTIC_API_URL = "YOURDOMAINPostAutoResponseStatisticApiUrl";
 
-        public const string ENVIRONMENT_KEY_DB_CONNECTION_STRING = "LeadHootzFunctionConnectionString";
+        public const string ENVIRONMENT_KEY_DB_CONNECTION_STRING = "YOURDOMAINFunctionConnectionString";
         public const string ENVIRONMENT_KEY_STRIPE_SECRET = "StripeSecretKey";
         public const string ENVIRONMENT_TEST_KEY_STRIPE_SECRET = "StripeSecretTestKey";
        
@@ -23,7 +23,7 @@
 //#if DEBUG
 //        public const string DB_CONNECTION_STRING = "";
 //#else
-        public const string DB_CONNECTION_STRING = "Data Source=socialhootz.database.windows.net;Database=LeadHootz.Function;User Id=azure;Password=;MultipleActiveResultSets=true"; 
+        public const string DB_CONNECTION_STRING = "Data Source=yourdomain.database.windows.net;Database=YOURDOMAIN.Function;User Id=azure;Password=;MultipleActiveResultSets=true"; 
 //#endif
 
         public const string REQUEST_REQUEST_SUCCESS_MESSAGE = "Data successfully added.";

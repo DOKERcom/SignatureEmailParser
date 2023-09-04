@@ -34,7 +34,7 @@ namespace SignatureEmailParser.BusinessLogic.Helpers
                 bool bTls = true;
                 int port = 443;
                 bool bAutoReconnect = true;
-                bool taskSuccess = rest.Connect("https://socialhootz.zendesk.com", port, bTls, bAutoReconnect);
+                bool taskSuccess = rest.Connect("https://yourdomain.zendesk.com", port, bTls, bAutoReconnect);
                 if (taskSuccess != true)
                 {
                     //Debug.WriteLine("ConnectFailReason: " + Convert.ToString(rest.ConnectFailReason));
@@ -309,7 +309,7 @@ namespace SignatureEmailParser.BusinessLogic.Helpers
             bool bTls = true;
             int port = 443;
             bool bAutoReconnect = true;
-            success = rest.Connect("https://socialhootz.zendesk.com", port, bTls, bAutoReconnect);
+            success = rest.Connect("https://yourdomain.zendesk.com", port, bTls, bAutoReconnect);
             if (success != true)
             {
                 //Debug.WriteLine("ConnectFailReason: " + Convert.ToString(rest.ConnectFailReason));

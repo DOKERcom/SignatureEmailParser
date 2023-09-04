@@ -8,7 +8,7 @@ namespace SignatureEmailParser.EFCore
     public class ApplicationContextFactory : IDesignTimeDbContextFactory<ApplicationContext>
     {
         const string sectionKey = "Values";
-        const string connectionStringKey = "LeadHootzFunctionConnectionString";
+        const string connectionStringKey = "YOURDOMAINFunctionConnectionString";
         const string localSettingFile = "local.settings.json";
         public ApplicationContext CreateDbContext(string[] args)
         {
